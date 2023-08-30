@@ -1,6 +1,6 @@
 # GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY
 
-![CYCLIST](https://github.com/arunavm/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/4c67e00d-1f38-46b6-bc6d-cba585a2147d)
+![CYCLIST](https://github.com/PayalGarg1201/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/4c67e00d-1f38-46b6-bc6d-cba585a2147d)
 
 INTRODUCTION
 
@@ -23,7 +23,7 @@ Cyclistic’s finance analysts have concluded that annual members are much more 
 Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in analyzing the Cyclistic historical bike trip data to identify trends.
 
 
-![image](https://github.com/arunavm/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/52597d65-0bd5-4234-9d9c-2370b0d06b91)
+![image](https://github.com/PayalGarg1201/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/52597d65-0bd5-4234-9d9c-2370b0d06b91)
 
 
 
@@ -122,7 +122,7 @@ Finding the number of members and casual riders (June 2020-May 2022).
 
 About 57% users are member riders and 42% are casual riders.
 
-![image](https://github.com/arunavm/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/1e65e7ed-ac22-4a33-bd44-7becb7a8e6d6)
+![image](https://github.com/PayalGarg1201/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/1e65e7ed-ac22-4a33-bd44-7becb7a8e6d6)
 
 
 
@@ -134,14 +134,14 @@ We see a general reduced usage of the service during the summer periods in Chica
 
 Summary of Bike rentals every day of the week
 
-![image](https://github.com/arunavm/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/5bbca1ce-06a0-46c4-8394-2acc708c7bb8)
+![image](https://github.com/PayalGarg1201/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/5bbca1ce-06a0-46c4-8394-2acc708c7bb8)
 
 
 
 Docked bikes are popular in both casual and member riders. But casual riders use these rides more often on weekends and member riders use them weekly consistently.
 
 
-![image](https://github.com/arunavm/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/fcf35a3f-da68-4ce5-b191-6f6faec2f483)
+![image](https://github.com/PayalGarg1201/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/fcf35a3f-da68-4ce5-b191-6f6faec2f483)
 
 
 
@@ -149,13 +149,13 @@ Trip duration classified by type of riders
 
 Duration of casual riders start falling during winter season in Chicago (October to February — where the least duration of trips can be observed). Trip duration of member riders also falls during winter season. Trip duration peaks during summer season in Chicago (July to September — where the most duration of trips can be observed).
 
-![image](https://github.com/arunavm/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/78539a89-9034-4da7-a865-b38f7d7b047e)
+![image](https://github.com/PayalGarg1201/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/78539a89-9034-4da7-a865-b38f7d7b047e)
 
 
 
 Top Ten Start Stations
 
-![image](https://github.com/arunavm/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/d52e3351-5a42-4d47-99af-23c96e207778)
+![image](https://github.com/PayalGarg1201/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/d52e3351-5a42-4d47-99af-23c96e207778)
 
 
 
@@ -165,7 +165,7 @@ Hourly Trip Trend
 
 Here, we see that members’ bookings peak at about 8 AM and 6 PM which coincides with general work resumption and closure time. Casual bookings show a steady increase throughout the day until 6 PM too.
 
-![image](https://github.com/arunavm/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/4bde8186-b1f2-4ac4-bd63-a626737e3358)
+![image](https://github.com/PayalGarg1201/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/4bde8186-b1f2-4ac4-bd63-a626737e3358)
 
 
 Trip Duration
@@ -178,7 +178,7 @@ Trip Duration
 
 · This proves that Casual users ride for leisure most
 
-![image](https://github.com/arunavm/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/e7071b7e-0677-4460-baad-40f34a8ce024)
+![image](https://github.com/PayalGarg1201/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/e7071b7e-0677-4460-baad-40f34a8ce024)
 
 
 Click on below link to view the dashboard for this case study
